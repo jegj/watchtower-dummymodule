@@ -1,0 +1,26 @@
+{
+  "name": "watchtower-dummymodule",
+  "version": "1.0.0",
+  "description": "DUmmy sample module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jegj/watchtower-dummymodule.git"
+  },
+  "keywords": [
+    "node",
+    "watchtower"
+  ],
+  "author": "jegj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jegj/watchtower-dummymodule/issues"
+  },
+  "homepage": "https://github.com/jegj/watchtower-dummymodule#readme",
+  "dependencies": {
+    "time": "^0.12.0"
+  }
+}
