@@ -1,12 +1,8 @@
-/**
- * Simple init method
- * @param {*} cb 
- */
+const random = require('random');
+
 function init(cb) {
-  var time = require('time')(Date);
-  var d = new Date();
-  d.setTimezone('UTC');
-  cb(null, d.toString());
+  const a = random.int(min = 0, max = 1000)
+  cb(null, a);
 }
 
 

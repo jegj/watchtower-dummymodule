@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jegj/watchtower-dummymodule#readme",
   "dependencies": {
-    "time": "^0.12.0"
+    "random": "^2.0.12"
   }
 }
